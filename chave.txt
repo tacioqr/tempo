@@ -1,0 +1,11 @@
+Chave 04fb742f
+
+
+Autenticação de chave 
+
+https://api.hgbrasil.com/weather?key=04fb742f
+https://api.hgbrasil.com/weather?format=json-cors&key=04fb742f
+
+
+
+https://api.hgbrasil.com/weather?format=json-cors&key=04fb742f&city_name=Natal, rn
